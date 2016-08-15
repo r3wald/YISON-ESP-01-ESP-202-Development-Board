@@ -1,0 +1,6 @@
+{
+      "dist": {
+              "repo": "git@github.com:r3wald/YISON-ESP-01-ESP-202-Development-Board.git#gh-pages",
+                  "beforeStageCommand": "cat front.yml ../README.md > index.md"
+                    }
+}
