@@ -1,5 +1,5 @@
 ---
-title: Index
+title: YISON ESP-01/ESP-202 Development Board
 layout: default
 ---
 # YISON ESP-01/ESP-202 Development Board
